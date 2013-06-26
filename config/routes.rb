@@ -1,5 +1,7 @@
 SampleApp::Application.routes.draw do
 
+  get "users/new"
+
   get "users/ne"
 
   get "user/new"
